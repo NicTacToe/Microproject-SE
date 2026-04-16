@@ -1,0 +1,7 @@
+react
+react-dom
+typescript
+@types/react
+@types/react-dom
+tailwindcss
+lucide-react
